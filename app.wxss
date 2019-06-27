@@ -11,16 +11,3 @@ page{
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
-view,scroll-view{
-  box-sizing: border-box;
-}
-.ZY-PD{
-  /* padding: 0 30rpx; */
-}
-/* 文字溢出 */
-.textOverflow{
-  overflow:hidden;white-space:nowrap;text-overflow: ellipsis;
-}
-.textOverflow2{
-  display: -webkit-box;text-overflow: ellipsis;overflow: hidden;-webkit-box-orient: vertical;-webkit-line-clamp:2;
-}
